@@ -1,0 +1,3 @@
+[submodule ".\\app\\web\\src\\"]
+	path = .\\app\\web\\src\\
+	url = https://github.com/JoelOdhiambo/Type-2-Diabetes-Detection-using-Random-Forest-ML-Algorithm.git
